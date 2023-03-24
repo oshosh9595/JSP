@@ -1,0 +1,4 @@
+public MultipartRequest(HttpServletRequest request,
+			String saveDirectory,
+			int maxPostSize,
+			String encoding)
